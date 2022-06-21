@@ -4,11 +4,11 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: blue;
+  background-color: red;
 }
 
 h1 {
-  color: red;
+  color: yellow;
 }
 
 img {
